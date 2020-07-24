@@ -1,7 +1,7 @@
 <center><h1>Managing Flow and PowerApps</h1></center>
 
 <h2>Lab scenario</h2>
-<p>You’re the Teamwork Administrator for Contoso Corporation. There’s a collaboration solution configured and deployed using apps in Microsoft Office 365. A user Lee Gu has requested help configuring a flow to save email attachments to Microsoft OneDrive for Business. After configuring this, you need to create a data loss prevention policy to ensure that Microsoft Flow and Microsoft PowerApps don’t send Microsoft SharePoint Online and Microsoft Dynamics 365 data outside of the organization.</p>
+<p>You’re the Teamwork Administrator for CodeSizzler. There’s a collaboration solution configured and deployed using apps in Microsoft Office 365. A user Lee Gu has requested help configuring a flow to save email attachments to Microsoft OneDrive for Business. After configuring this, you need to create a data loss prevention policy to ensure that Microsoft Flow and Microsoft PowerApps don’t send Microsoft SharePoint Online and Microsoft Dynamics 365 data outside of the organization.</p>
 <p>In this lab, you will manage Flow and PowerApps capabilities.</p>
 
 <h2>Exercise 1: Configuring a flow (10 minutes)</h2>
